@@ -20,7 +20,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rojash03l&theme=tokyonight&hide_border=true"
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rojash03&theme=tokyonight&hide_border=true"
        alt="GitHub Streak Stats" />
 </p>
 
