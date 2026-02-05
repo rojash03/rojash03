@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/github/stars/rojash03?affiliations=OWNER&style=for-the-badge&color=yellow" alt="Stars" />
 </p>
 
-I
-
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rojash03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
        alt="GitHub Stats" 
