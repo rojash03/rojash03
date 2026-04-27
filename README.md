@@ -49,14 +49,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rojash03&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -81,7 +73,11 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rojash03/rojash03/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rojash03/rojash03/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rojash03/rojash03/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/rojash03/rojash03/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
