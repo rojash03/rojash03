@@ -22,7 +22,6 @@
 
 - 🎓 Pursuing **BSc (Hons) Computing** at **Itahari International College**, Nepal
 - 💼 Currently building full-stack web & mobile applications
-- 📱 Working on **WakeLens** — an AI-powered React Native alarm app with object scanning
 - 🌐 Check out my portfolio → [rojeshthapa.com.np](https://rojeshthapa.com.np/)
 - 📫 Reach me at **thaparojash703@gmail.com**
 - ⚡ Fun fact: I love turning ideas into real, working products
